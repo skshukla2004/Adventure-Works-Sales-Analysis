@@ -1,4 +1,4 @@
-# 📊 Power BI – Adventure Works Sales Analysis Dashboards   
+# 📊 Power BI – Adventure Works Sales Analysis Dashboards    
 
 ## 📌 Overview  
 This project presents **9 interactive Power BI dashboards** showcasing advanced business intelligence concepts.  
